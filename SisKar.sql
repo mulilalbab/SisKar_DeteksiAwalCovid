@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS ds_problems(
 INSERT INTO ds_problems(code,name,notes)
 VALUES
 ('P1','Covid-19','anda teridentifikasi mengalami gejala Covid-19 perlu pengetesan secara mendalam di rumah sakit terdekat.'),
-('P2','Masuk Angin','Gejala yang anda alami adalah masuka anain.'),
+('P2','Masuk Angin','Gejala yang anda alami adalah masuk angin.'),
 ('P3','Flu','Anda mengalami gejala Flu biasa.');
 
 DROP TABLE IF EXISTS ds_rules;
